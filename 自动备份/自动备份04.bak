@@ -1,0 +1,421 @@
+[General]
+MacroID=2eeb4032-351d-4898-9c4f-f6002cba2e19
+SyntaxVersion=2
+BeginHotkey=121
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=123
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+Description=我录制的脚本1
+Enable=1
+AutoRun=0
+[Repeat]
+Type=0
+Number=1
+[SetupUI]
+Type=2
+QUI=
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[Script]
+'==========以下是按键精灵录制的内容==========
+MoveTo 681, 280
+Delay 3887
+KeyDown "Alt", 1
+Delay 254
+KeyDown "Tab", 1
+Delay 48
+KeyUp "Alt", 1
+Delay 80
+KeyUp "Tab", 1
+Delay 1
+Delay 1
+KeyUp "Tab", 1
+Delay 1
+Delay 2302
+KeyDown "Enter", 1
+Delay 1
+Delay 2
+KeyDown "Enter", 1
+Delay 1
+Delay 2
+KeyDown "Enter", 1
+Delay 1
+Delay 215
+KeyUp "Enter", 1
+Delay 1
+Delay 2
+KeyUp "Enter", 1
+Delay 1
+Delay 3
+KeyDown "Enter", 1
+Delay 1
+Delay 1
+KeyDown "Enter", 1
+Delay 1
+Delay 39
+KeyUp "Enter", 1
+Delay 1
+Delay 1
+KeyUp "Enter", 1
+Delay 1
+Delay 1
+KeyUp "Enter", 1
+Delay 172
+KeyDown "Ctrl", 1
+Delay 3
+Delay 1
+KeyDown "Ctrl", 1
+Delay 1
+Delay 2
+KeyDown "Ctrl", 1
+Delay 1
+Delay 248
+KeyDown "C", 1
+Delay 1
+Delay 2
+KeyDown "C", 1
+Delay 1
+Delay 1
+KeyDown "C", 1
+Delay 4
+Delay 210
+KeyUp "C", 1
+Delay 2
+Delay 2
+KeyUp "C", 1
+Delay 3
+Delay 4
+KeyUp "Ctrl", 1
+Delay 2
+Delay 1
+KeyUp "Ctrl", 1
+Delay 1
+Delay 1014
+KeyDown "Alt", 1
+Delay 2
+Delay 1
+KeyDown "Alt", 1
+Delay 1
+Delay 1
+KeyDown "Alt", 1
+Delay 1
+Delay 201
+KeyDown "Tab", 1
+Delay 48
+KeyUp "Alt", 1
+Delay 97
+KeyUp "Tab", 1
+MoveTo 114, 434
+Delay 2418
+LeftClick 1
+MoveTo 510, 272
+Delay 2024
+LeftClick 1
+Delay 448
+KeyDown "Ctrl", 1
+Delay 304
+KeyDown "V", 1
+Delay 97
+KeyUp "V", 1
+Delay 63
+KeyUp "Ctrl", 1
+Delay 400
+KeyDown "Enter", 1
+Delay 64
+KeyUp "Enter", 1
+Delay 129
+KeyDown "Enter", 1
+Delay 46
+KeyUp "Enter", 1
+Delay 2705
+KeyDown "Alt", 1
+Delay 207
+KeyDown "Tab", 1
+Delay 64
+KeyUp "Alt", 1
+Delay 80
+KeyUp "Tab", 1
+Delay 1
+KeyUp "Tab", 1
+Delay 2
+Delay 1
+KeyUp "Tab", 1
+Delay 5
+Delay 1
+KeyUp "Tab", 1
+Delay 1
+Delay 2917
+KeyDown "Right", 1
+Delay 1
+KeyDown "Right", 1
+Delay 1
+Delay 1
+KeyDown "Right", 1
+Delay 77
+KeyUp "Right", 1
+Delay 1
+Delay 1
+KeyUp "Right", 1
+Delay 1
+Delay 189
+KeyDown "Right", 1
+Delay 1
+KeyDown "Right", 1
+Delay 1
+Delay 1
+KeyDown "Right", 1
+Delay 93
+KeyUp "Right", 1
+Delay 1
+Delay 1
+KeyUp "Right", 1
+Delay 1
+Delay 1165
+KeyDown "Ctrl", 1
+Delay 1
+Delay 1
+KeyDown "Ctrl", 1
+Delay 1
+Delay 205
+KeyDown "C", 1
+Delay 1
+KeyDown "C", 1
+Delay 1
+KeyDown "C", 1
+Delay 1
+Delay 210
+KeyUp "C", 1
+Delay 1
+Delay 1
+KeyUp "C", 1
+Delay 9
+KeyUp "Ctrl", 1
+Delay 1
+KeyUp "Ctrl", 1
+Delay 1
+Delay 1
+KeyUp "Ctrl", 1
+Delay 461
+KeyDown "Alt", 1
+Delay 1
+Delay 1
+KeyDown "Alt", 1
+Delay 1
+Delay 188
+KeyDown "Tab", 1
+Delay 49
+KeyUp "Alt", 1
+Delay 80
+KeyUp "Tab", 1
+MoveTo 367, 500
+Delay 2761
+LeftClick 1
+Delay 777
+KeyDown "Ctrl", 1
+Delay 320
+KeyDown "V", 1
+Delay 112
+KeyUp "V", 1
+Delay 160
+KeyUp "Ctrl", 1
+Delay 896
+KeyDown "Alt", 1
+Delay 191
+KeyDown "Tab", 1
+Delay 80
+KeyUp "Alt", 1
+Delay 81
+KeyUp "Tab", 1
+Delay 1
+Delay 2
+KeyUp "Tab", 1
+Delay 2
+Delay 1
+KeyUp "Tab", 1
+Delay 2
+Delay 1592
+KeyDown "Right", 1
+Delay 1
+Delay 2
+KeyDown "Right", 1
+Delay 1
+Delay 1
+KeyDown "Right", 1
+Delay 1
+Delay 57
+KeyUp "Right", 1
+Delay 1
+Delay 1
+KeyUp "Right", 1
+Delay 1
+KeyUp "Right", 1
+Delay 1
+Delay 189
+KeyDown "Right", 1
+Delay 1
+Delay 2
+KeyDown "Right", 1
+Delay 1
+Delay 2
+KeyDown "Right", 1
+Delay 2
+Delay 56
+KeyUp "Right", 1
+Delay 2
+Delay 1
+KeyUp "Right", 1
+Delay 2
+Delay 1
+KeyUp "Right", 1
+Delay 1
+Delay 808
+KeyDown "Ctrl", 1
+Delay 2
+Delay 1
+KeyDown "Ctrl", 1
+Delay 1
+Delay 1
+KeyDown "Ctrl", 1
+Delay 2
+Delay 330
+KeyDown "C", 1
+Delay 1
+Delay 2
+KeyDown "C", 1
+Delay 2
+Delay 2
+KeyDown "C", 1
+Delay 1
+Delay 207
+KeyUp "C", 1
+Delay 1
+Delay 1
+KeyUp "C", 1
+Delay 2
+Delay 36
+KeyUp "Ctrl", 1
+Delay 1
+Delay 1
+KeyUp "Ctrl", 1
+Delay 1
+Delay 1
+KeyUp "Ctrl", 1
+Delay 477
+KeyDown "Alt", 1
+Delay 1
+Delay 2
+KeyDown "Alt", 1
+Delay 1
+Delay 1
+KeyDown "Alt", 1
+Delay 2
+Delay 200
+KeyDown "Tab", 1
+Delay 48
+KeyUp "Alt", 1
+Delay 80
+KeyUp "Tab", 1
+MoveTo 662, 480
+Delay 2769
+LeftClick 1
+Delay 777
+KeyDown "Ctrl", 1
+Delay 320
+KeyDown "V", 1
+Delay 114
+KeyUp "V", 1
+Delay 189
+KeyUp "Ctrl", 1
+Delay 4338
+KeyDown "Enter", 1
+Delay 78
+KeyUp "Enter", 1
+MoveTo 524, 566
+Delay 3426
+LeftClick 1
+MoveTo 472, 363
+Delay 1824
+LeftClick 1
+Delay 783
+KeyDown "Num 4", 1
+Delay 79
+KeyUp "Num 4", 1
+Delay 97
+KeyDown "Num 4", 1
+Delay 79
+KeyUp "Num 4", 1
+Delay 113
+KeyDown "Num 0", 1
+Delay 80
+KeyUp "Num 0", 1
+Delay 143
+KeyDown "Num 2", 1
+Delay 66
+KeyUp "Num 2", 1
+Delay 143
+KeyDown "Num 8", 1
+Delay 79
+KeyUp "Num 8", 1
+Delay 164
+KeyDown "Num 2", 1
+Delay 62
+KeyUp "Num 2", 1
+Delay 160
+KeyDown "Num 0", 1
+Delay 78
+KeyUp "Num 0", 1
+Delay 113
+KeyDown "Num 0", 1
+Delay 47
+KeyUp "Num 0", 1
+Delay 145
+KeyDown "Num 4", 1
+Delay 80
+KeyUp "Num 4", 1
+Delay 112
+KeyDown "Num 8", 1
+Delay 64
+KeyUp "Num 8", 1
+Delay 512
+KeyDown "Tab", 1
+Delay 80
+KeyUp "Tab", 1
+Delay 304
+KeyDown "Num 1", 1
+Delay 63
+KeyUp "Num 1", 1
+Delay 81
+KeyDown "Num 1", 1
+Delay 63
+KeyUp "Num 1", 1
+Delay 113
+KeyDown "Num 2", 1
+Delay 63
+KeyUp "Num 2", 1
+Delay 97
+KeyDown "Num 2", 1
+Delay 47
+KeyUp "Num 2", 1
+Delay 129
+KeyDown "Num 3", 1
+Delay 47
+KeyUp "Num 3", 1
+Delay 112
+KeyDown "Num 3", 1
+Delay 80
+KeyUp "Num 3", 1
+Delay 144
+KeyDown "Tab", 1
+Delay 80
+KeyUp "Tab", 1
+Delay 240
+KeyDown "Enter", 1
+Delay 75
+KeyUp "Enter", 1
+'==========以上是按键精灵录制的内容==========

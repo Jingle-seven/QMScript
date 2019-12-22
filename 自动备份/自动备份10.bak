@@ -1,0 +1,91 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=33
+BeginHotkeyMod=8
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=123
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=342aca9a-7605-41c5-b9fd-b77a4b2e7d43
+Description=补缴一年登记
+Enable=1
+AutoRun=0
+[Repeat]
+Type=0
+Number=1
+[SetupUI]
+Type=2
+QUI=
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[Script]
+'==========以下是按键精灵录制的内容==========
+
+KeyDown "Enter", 1
+Delay 62
+KeyUp "Enter", 1
+Delay 200
+KeyDown "Alt", 1
+Delay 271
+KeyDown "Tab", 1
+Delay 96
+KeyUp "Tab", 1
+KeyUp "Alt", 1
+
+
+Delay 200
+KeyDown "Enter", 1
+Delay 2
+KeyUp "Enter", 1
+Delay 200
+KeyDown "Enter", 1
+Delay 30
+KeyUp "Enter", 1
+Delay 2
+Delay 200
+KeyDown "Ctrl", 1
+Delay 150
+KeyDown "C", 1
+Delay 205
+KeyUp "C", 1
+Delay 20
+KeyUp "Ctrl", 1
+Delay 1
+Delay 200
+KeyDown "Alt", 1
+Delay 201
+KeyDown "Tab", 1
+Delay 96
+KeyUp "Tab", 1
+Delay 80
+KeyUp "Alt", 1
+//点击缴费方式变更//
+MoveTo 108, 389
+Delay 200
+LeftClick 1
+//点击输入框//
+MoveTo 557, 270
+Delay 200
+LeftClick 1
+Delay 200
+KeyDown "Ctrl", 1
+Delay 143
+KeyDown "V", 1
+Delay 95
+KeyUp "V", 1
+Delay 32
+KeyUp "Ctrl", 1
+Delay 200
+KeyDown "Enter", 1
+Delay 64
+KeyUp "Enter", 1
+Delay 96
+KeyDown "Enter", 1
+Delay 80
+KeyUp "Enter", 1
+
+'==========以上是按键精灵录制的内容==========

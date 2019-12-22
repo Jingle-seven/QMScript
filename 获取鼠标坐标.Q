@@ -1,0 +1,35 @@
+[General]
+SyntaxVersion=2
+BeginHotkey=121
+BeginHotkeyMod=0
+PauseHotkey=0
+PauseHotkeyMod=0
+StopHotkey=123
+StopHotkeyMod=0
+RunOnce=1
+EnableWindow=
+MacroID=d6fead18-b34d-4854-ad14-1af80c13b85b
+Description=获取鼠标坐标
+Enable=1
+AutoRun=0
+[Repeat]
+Type=0
+Number=1
+[SetupUI]
+Type=2
+QUI=
+[Relative]
+SetupOCXFile=
+[Comment]
+
+[Script]
+
+for 100
+	Key = WaitKey()
+	//F9//
+	If key = 120 Then 
+		GetCursorPos mx,my
+		TracePrint CStr(mx)+","+CStr(my)
+		//TracePrint my
+	End If
+next
